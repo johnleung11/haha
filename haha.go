@@ -7,3 +7,4 @@ func main(){
 	fmt.Println(121111)
 	fmt
 }
+fmt.Println(22)
