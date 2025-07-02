@@ -2,7 +2,7 @@ package main
 import (fmt)
 
 func main(){
-	fmt.Println(11122)
+	fmt.Println(1112234)
 	fmt.Println(2231)
 	fmt.Println(121111)
 	fmt.Println(4434)
