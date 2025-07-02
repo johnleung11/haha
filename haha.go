@@ -8,6 +8,9 @@ func main(){
 	fmt.Println(4434)
 	fmt.Println(443)
 	fmt.Println(4432)
+	fmt.Println(443)
+	fmt.Println(443)
+
 }
 }
 fmt.Println(22)
